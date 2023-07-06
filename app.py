@@ -69,4 +69,3 @@ def decrypt(cipher, key):
 
     return plainText
 
-

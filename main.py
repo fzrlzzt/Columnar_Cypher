@@ -29,6 +29,8 @@ def toggle_mode():
         entry_cipher.config(state="normal")
         button_action.config(text="Decrypt", command=decrypt_text)
         label_result.config(text="")
+    
+
 
 # Create the main window
 window = tk.Tk()
