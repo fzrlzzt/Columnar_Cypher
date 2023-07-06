@@ -69,5 +69,4 @@ def decrypt(cipher, key):
 
     return plainText
 
-plaintext = "Test One Two Three"
-key = "hello"
+
